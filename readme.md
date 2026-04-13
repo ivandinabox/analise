@@ -174,7 +174,7 @@ export const authProvider = {
 
 ```
  
-O refine possui um componente Authenticated por na biblioteca. 
+O refine possui um componente Authenticated por padrão na biblioteca. 
 A lógica de um componente com este comportamento foi feita no projeto customizado: 
 
 ![alt](./svelte_authenticated.jpg)
