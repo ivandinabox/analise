@@ -349,6 +349,8 @@ Refine apresentou um bundle 3.5X maior.
 
 Também utilizei o copilot que tem acesso a todos os arquivos de ambos projetos para fazer uma analise de qual abordagem é mais favorável para a nossa utilização:
 
+## Resposta:
+
 Para este exemplo de autenticação, a abordagem **custom-auth (SvelteKit)** é mais adequada. Aqui está o porquê:
 
 ## 🎯 Comparação
