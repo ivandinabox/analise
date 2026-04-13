@@ -246,7 +246,7 @@ import { useLogin } from "@refinedev/core";
 ```
 ![alt](./refine_login.jpg)
 
-## Código da area protejida por login
+## Código da area protegida por login
 
 Custom:
 
