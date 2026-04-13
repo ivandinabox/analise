@@ -2,7 +2,7 @@
 
 Criei uma API utilizando nodeJs + Express que salva tokens, cria um tempo de expiração (30 segundos) e após esse tempo deleta os tokens. 
  
-Ambas aplicações implementam os endpoints GET /token que solicita um token e POST /auth que verifica se um token é valido. 
+Ambas aplicações implementam os endpoints GET /token que solicita um token e POST /auth que verifica se um token é valido para dar acesso a uma pagina protegida.
  
 ## Tamanho das aplicações e códigos
 
